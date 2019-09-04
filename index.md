@@ -31,3 +31,4 @@ biomedical data.
 - [Syllabus](syllabus.html)
 - [Schedule](schedule.html)
 - [Assignments](assignments.html)
+- [Resources](resources.html)
