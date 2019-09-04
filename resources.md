@@ -24,9 +24,14 @@ Here are strategies I use:
   firefox browser extension, which may help you to find a free version
   of the article.
 
-- Paste `ezproxy.library.wisc.edu` into the url for the article URL.
+- Paste `ezproxy.library.wisc.edu` into the URL for the article.
   You'll get to a page asking for your NetID and password, but this
-  could get you immediate access to the article.
+  could then give you immediate access to the article.
+
+  For example, with the url
+  <https://doi.org/10.1198/000313002317572790>, you would instead use
+  <http://doi.org.ezproxy.library.wisc.edu/10.1198/000313002317572790>.
+  (Note the use of `http` rather than `https`.)
 
 - Try using the [GlobalProtect VPN for
   UW-Madison](https://kb.wisc.edu/helpdesk/page.php?id=68164). Your
