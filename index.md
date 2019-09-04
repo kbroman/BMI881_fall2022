@@ -4,7 +4,22 @@ title: Biomedical data science scholarly literature
 description: A seminar on scientific papers
 ---
 
-_Add a description_
+Critical evaluation of the scholarly literature is a crucial skill for
+researchers. Through this course (along with its continuation, BMI
+882), Ph.D. students in Biomedical Data Science will develop this
+valuable skill by focused reading and discussion of a variety of
+journal articles of present or historical importance the biomedical
+sciences literature, including biostatistics, biomedical informatics,
+and relevant topics in statistics and computer science. Students will
+read and discuss one article or a small group of related articles each
+week. Students will provide short written summaries in advance of
+discussion. In addition to the readings, discussion, and
+presentations, there will be three written homework assignments
+related to the articles under discussion. These homework assignments
+will involve an effort to reproduce the results of an article, the use
+of computer simulation to investigate properties of methods discussed
+in an article, or application of the discussed methods to related
+biomedical data.
 
 **Course meetings**: Tu/Thu 8:30-9:20, [1116 Biochem](https://map.wisc.edu/s/3cqqjqss)
 
