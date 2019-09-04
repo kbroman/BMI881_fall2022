@@ -23,6 +23,6 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 19,21 Nov |  | Deep learning
 | 26 Nov    |  | tSNE
 | 28 Nov |    | **No class meeting**
-| 3 Dec |   | Statistical modeleing: the two cultures |
+| 3 Dec |   | Statistical modeling: the two cultures |
 | 5 Dec |   | What is data science? |
 | 10 Dec  |   | Tidy data
