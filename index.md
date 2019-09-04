@@ -21,7 +21,7 @@ of computer simulation to investigate properties of methods discussed
 in an article, or application of the discussed methods to related
 biomedical data.
 
-**Course meetings**: Tu/Thu 8:30-9:20, [1116 Biochem](https://map.wisc.edu/s/3cqqjqss)
+**Course meetings**: Tu/Thu 8:30-9:20, [1116 Biochemistry](https://map.wisc.edu/s/3cqqjqss)
 
 **Instructor**: [Karl Broman](https://kbroman.org), 2126
 [Genetics-Biotechnology Center](https://map.wisc.edu/s/2tie3nen)
