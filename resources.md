@@ -20,9 +20,8 @@ Here are strategies I use:
 - Search for the paper on [Google scholar](https://scholar.google.com).
   Click on "All ___ versions" and you may find an open version of the article.
 
-- Install the [Open access button](https://openaccessbutton.org/)
-  firefox browser extension, which may help you to find a free version
-  of the article.
+- Install the [unpaywall browser extension](https://unpaywall.org/products/extension),
+  which may help you to find a free version of the article.
 
 - Paste `ezproxy.library.wisc.edu` into the URL for the article.
   You'll get to a page asking for your NetID and password, but this
