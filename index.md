@@ -28,7 +28,7 @@ biomedical data.
 
 **Office hours**: Tu 9:30-10:30, Fr 11-12, or by appointment
 
-- [Syllabus](syllabus.html)
-- [Schedule](schedule.html)
-- [Assignments](assignments.html)
-- [Resources](resources.html)
+- [syllabus](syllabus.html)
+- [schedule](schedule.html)
+- [assignments](assignments.html)
+- [resources](resources.html)
