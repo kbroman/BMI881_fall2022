@@ -102,14 +102,17 @@ to the class meeting time. This may be accomplished in a variety of
 ways. For example:
 
 - Email a PDF or text file to [the instructor](https://kbroman.org).
-- Post to a blog, for example with
-  [blogdown](https://bookdown.org/yihui/blogdown/), [GitHub
-  pages](https://pages.github.com/), or
-  [Wordpress](https://wordpress.com).
+- Post documents to a [Box](https://uwmadison.app.box.com) or
+  [DropBox](https://dropbox.com) folder that you share with the
+  instructor.
 - Post a text or
   [markdown](https://guides.github.com/features/mastering-markdown/)
   document to a repository at [GitHub](https://github.com) or
   [Bitbucket](https://bitbucket.org).
+- Post to a blog, for example with
+  [blogdown](https://bookdown.org/yihui/blogdown/), [GitHub
+  pages](https://pages.github.com/), or
+  [Wordpress](https://wordpress.com).
 
 For the blog or repository approaches, they should be accessible to
 the instructor but may otherwise be private.
