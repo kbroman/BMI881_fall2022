@@ -40,3 +40,6 @@ Here are strategies I use:
 - [Sci-Hub](https://sci-hub.se) provides pirated versions of many
   journal articles, but this is _not_ an accepted way to get access to
   copyrighted material.
+
+- If you have trouble getting access to an article for this course,
+  email [the instructor](https://kbroman.org).
