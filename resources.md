@@ -18,7 +18,7 @@ the [reading assignments](schedule.html)), particularly from home.
 Here are strategies I use:
 
 - Search for the paper on [Google scholar](https://scholar.google.com).
-  Click on "All ___ versions" and you may find an open version of the article.
+  Click on "All ___ versions", and you may find an open version of the article.
 
 - Install the [unpaywall browser extension](https://unpaywall.org/products/extension),
   which may help you to find a free version of the article.
@@ -34,7 +34,7 @@ Here are strategies I use:
 
 - Try using the [GlobalProtect VPN for
   UW-Madison](https://kb.wisc.edu/helpdesk/page.php?id=68164). Your
-  IP addresss might look like you're on campus and so you might get
+  IP addresss might look like you're on campus, and so you might get
   access.
 
 - [Sci-Hub](https://sci-hub.se) provides pirated versions of many
