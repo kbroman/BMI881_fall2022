@@ -13,8 +13,8 @@ sciences literature, including biostatistics, biomedical informatics,
 and relevant topics in statistics and computer science. Students will
 read and discuss one article or a small group of related articles each
 week. Students will provide short written summaries in advance of
-discussion. In addition to the readings, discussion, and
-presentations, there will be three written homework assignments
+discussion. In addition to the readings and discussion,
+there will be three written homework assignments
 related to the articles under discussion. These homework assignments
 will involve an effort to reproduce the results of an article, the use
 of computer simulation to investigate properties of methods discussed
