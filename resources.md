@@ -43,3 +43,9 @@ Here are strategies I use:
 
 - If you have trouble getting access to an article for this course,
   email [the instructor](https://kbroman.org).
+
+### Tables &rarr; Graphs
+
+- [Dotplot graph
+  example](https://kbroman.org/blog/2014/10/29/improved-graphs-of-car-crash-stats/)
+  on Karl's blog
