@@ -13,7 +13,7 @@ from Feigin et al. (2014) Lancet 383:245-255
 
 1. Make a graph of the mortality values (by age group, year, and country
 income group). Focus on the rates and intervals.
-The data are available in [`feigin2014_table1_mortality.csv`](`feigin2014_table1_mortality.csv).
+The data are available in [`feigin2014_table1_mortality.csv`](assets/feigin2014_table1_mortality.csv).
 
 2. Discuss your design choices.
 
