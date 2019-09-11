@@ -10,7 +10,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 5 Sep   |    | Course introduction (and see [resources](resources.html))
 | 10 Sep  |    | Tables &rarr; graphs: [Carr & Nusser (1995)](http://mason.gmu.edu/~dcarr/lib/v6n3.pdf), [Gelman et al. (2002)](https://doi.org/10.1198/000313002317572790)
 | 12 Sep  |    | Open access publishing: [Van Noorden (2013)](https://doi.org/10.1038/495426a), [Piwowar et al (2018)](https://doi.org/10.7717/peerj.4375)
-| 17,19 Sep  |    | [Snow on Cholera](http://www.ph.ucla.edu/epi/snow/snowbook.html) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](assets/snow_cholera.pdf) [![map 1](https://kbroman.org/pages/icons16/image-icon.png)](https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg) [![map 2](https://kbroman.org/pages/icons16/image-icon.png)](https://marlin-prod.literatumonline.com/cms/attachment/fccea2f1-d01a-4909-bc98-88a891733f63/fx2_lrg.jpg) |
+| 17,19 Sep  |    | [Snow on Cholera](http://www.ph.ucla.edu/epi/snow/snowbook.html) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](assets/snow_cholera.pdf) [![map 1](https://kbroman.org/pages/icons16/pdf-icon.png)](https://www.ph.ucla.edu/epi/snow/snowmap1.pdf) [![map 2](https://kbroman.org/pages/icons16/pdf-icon.png)](https://www.ph.ucla.edu/epi/snow/snowmap2.pdf) |
 | 24,26 Sep |     | Lipids and heart disease: [Lipid Research Clinics Program (1984)](https://doi.org/10.1001/jama.1984.03340270029025), [part 2](https://doi.org/10.1001/jama.1984.03340270043026) |
 | 1 Oct   |    | **No class meeting**
 | 3 Oct   |    | Causal inference: [Pearl (2009)](http://doi.org/10.1214/09-SS057), [Rosenbaum and Rubin (1983)](http://doi.org/10.1093/biomet/70.1.41) \[_[homework 1](homework1.html) due_\]
