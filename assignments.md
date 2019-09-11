@@ -24,7 +24,7 @@ to the class meeting time. This may be accomplished in a variety of
 ways. For example:
 
 - Email a PDF or text file to [the instructor](https://kbroman.org).
-- Post documents to a [Box](https://uwmadison.app.box.com) or
+- Post documents to a [Box](https://uwmadison.app.box.com), [Google Drive](https://drive.google.com), or
   [DropBox](https://dropbox.com) folder that you share with the
   instructor.
 - Post a text or
