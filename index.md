@@ -27,7 +27,6 @@ biomedical data.
 [Genetics-Biotechnology Center](https://map.wisc.edu/s/2tie3nen)
 
 **Office hours**: Tu 9:30-10:30, Fr 11-12, or by appointment
-(_No office hours Friday 13 Sep_)
 
 - [syllabus](syllabus.html)
 - [schedule](schedule.html)
