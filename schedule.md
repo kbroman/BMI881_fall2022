@@ -21,11 +21,12 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 15,17 Oct |  | Mammography |
 | 22,24 Oct |  | Causal inference: [Pearl (2009)](http://doi.org/10.1214/09-SS057), [Rosenbaum and Rubin (1983)](http://doi.org/10.1093/biomet/70.1.41)
 | 29,31 Oct |  | OHDSI
-| 5,7 Nov   |  | Boosting and bagging
+| 5 Nov     |  | Boosting and bagging                                         |
+| 7 Nov     |  | Boosting and bagging  \[_[homework 2](homework2.html) due_\] |
 | 12,14 Nov |  | Generalized cross validation |
 | 19,21 Nov |  | Deep learning
 | 26 Nov    |  | tSNE
-| 28 Nov |    | **No class meeting**
-| 3 Dec |   | Statistical modeling: the two cultures |
-| 5 Dec |   | What is data science? |
-| 10 Dec  |   | Tidy data
+| 28 Nov    |  | **No class meeting**
+| 3 Dec     |  | Statistical modeling: the two cultures |
+| 5 Dec     |  | What is data science? |
+| 10 Dec    |  | Tidy data
