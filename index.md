@@ -5,8 +5,8 @@ description: A seminar on scientific papers
 ---
 
 Critical evaluation of the scholarly literature is a crucial skill for
-researchers. Through this course (along with its continuation, BMI
-882), Ph.D. students in Biomedical Data Science will develop this
+researchers. Through this course (along with its continuation, [BMI
+882](https://kbroman.org/BMI882)), Ph.D. students in Biomedical Data Science will develop this
 valuable skill by focused reading and discussion of a variety of
 journal articles of present or historical importance the biomedical
 sciences literature, including biostatistics, biomedical informatics,
