@@ -25,8 +25,8 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 31 Oct    |  | OHDSI: [Ryan et al. (2013)](https://doi.org/10.1038/psp.2013.52) |
 | 5 Nov     |  | Boosting and bagging: [Buhlmann & Hothorn (2007)](https://doi.org/10.1093/aje/kwt010) |
 | 7 Nov     |  | Boosting and bagging: [Buhlmann (2012)](https://doi.org/10.1007/978-3-642-21551-3_33) \[_[homework 2](homework2.html) due_\] |
-| 12 Nov    |  | Generalized cross validation: [Golub et al. (1979)](http://pages.stat.wisc.edu/~wahba/ftp1/oldie/golub.heath.wahba.pdf) |
-| 14 Nov    |  | Generalized cross validation: [Craven & Wahba (1979)](http://pages.stat.wisc.edu/~wahba/ftp1/oldie/craven.wah.pdf) |
+| 12 Nov    |  | Data vis: [Lex et al. (2014)](https://doi.org/10.1109/TVCG.2014.2346248)
+| 14 Nov    |  | Data vis: [Sopan et al. (2013)](https://doi.org/10.1080/10447318.2012.687676) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](http://www.cs.umd.edu/~ben/Sopan2013Exploring.pdf)
 | 19 Nov    |  | Deep learning: [LeCun et al. (2015)](https://doi.org/10.1038/nature14539), [Angermueller et al. (2016)](https://doi.org/10.15252/msb.20156651)
 | 21 Nov    |  | Deep learning: [Ching et al. (2018)](https://doi.org/10.1098/rsif.2017.0387) |
 | 26 Nov    |  | tSNE: [van der Maaten & Hinton (2008)](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)  |
