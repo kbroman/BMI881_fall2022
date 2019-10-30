@@ -23,7 +23,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 24 Oct    |  | Propensity scores: [Rosenbaum and Rubin (1983)](http://doi.org/10.1093/biomet/70.1.41) |
 | 29 Oct    |  | OHDSI: [Madigan et al. (2013)](https://doi.org/10.1093/aje/kwt010) |
 | 31 Oct    |  | OHDSI: [Ryan et al. (2013)](https://doi.org/10.1038/psp.2013.52) |
-| 5 Nov     |  | Boosting and bagging: [Buhlmann & Hothorn (2007)](https://doi.org/10.1093/aje/kwt010) |
+| 5 Nov     |  | Boosting and bagging: [Buhlmann & Hothorn (2007)](https://doi.org/10.1214/07-STS242) |
 | 7 Nov     |  | Boosting and bagging: [Buhlmann (2012)](https://doi.org/10.1007/978-3-642-21551-3_33) \[_[homework 2](homework2.html) due_\] |
 | 12 Nov    |  | Data vis: [Lex et al. (2014)](https://doi.org/10.1109/TVCG.2014.2346248)
 | 14 Nov    |  | Data vis: [Sopan et al. (2013)](https://doi.org/10.1080/10447318.2012.687676) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](http://www.cs.umd.edu/~ben/Sopan2013Exploring.pdf)
