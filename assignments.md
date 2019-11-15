@@ -41,7 +41,7 @@ the instructor but may otherwise be private.
 
 ### Homework assignments
 
-There will be three written homework assignments
+There will be two written homework assignments
 related to the articles under discussion. These homework assignments
 will involve an effort to reproduce the results of an article, the use
 of computer simulation to investigate properties of methods discussed

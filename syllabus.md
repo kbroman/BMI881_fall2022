@@ -25,7 +25,7 @@ and relevant topics in statistics and computer science. Students will
 read and discuss one article or a small group of related articles each
 week. Students will provide short written summaries in advance of
 discussion. In addition to the readings and discussion,
-there will be three written homework assignments
+there will be two written homework assignments
 related to the articles under discussion. These homework assignments
 will involve an effort to reproduce the results of an article, the use
 of computer simulation to investigate properties of methods discussed
@@ -119,7 +119,7 @@ the instructor but may otherwise be private.
 
 #### Homework assignments
 
-There will be three written homework assignments related to the
+There will be two written homework assignments related to the
 articles under discussion. These homework assignments will involve an
 effort to reproduce the results of an article, the use of computer
 simulation to investigate properties of methods discussed in an
@@ -127,6 +127,7 @@ article, or application of the discussed methods to related biomedical
 data.
 
  - [Homework 1](homework1.html) due 3 Oct 2019
+ - [Homework 2](homework2.html) due 7 Nov
 
 
 ### Religious observances or other absences
