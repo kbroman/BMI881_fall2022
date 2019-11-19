@@ -31,6 +31,5 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 21 Nov    |  | Deep learning: [Ching et al. (2018)](https://doi.org/10.1098/rsif.2017.0387) |
 | 26 Nov    |  | tSNE: [van der Maaten & Hinton (2008)](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)  |
 | 28 Nov    |  | **No class meeting** |
-| 3 Dec     |  | Statistical modeling: the two cultures [Breiman (2001)](https://doi.org/10.1214/ss/1009213726) |
-| 5 Dec     |  | 50 years of data science: [Donoho (2017)](https://doi.org/10.1080/10618600.2017.1384734) (w/ discussion: [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/blog/50_years_datasci_with_disc.pdf)) |
+| 3,5 Dec     |  | Statistical modeling: the two cultures [Breiman (2001)](https://doi.org/10.1214/ss/1009213726) |
 | 10 Dec    |  | Tidy data: [Wickham (2014)](https://doi.org/10.18637/jss.v059.i10) |
