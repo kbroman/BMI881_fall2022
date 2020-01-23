@@ -127,7 +127,7 @@ article, or application of the discussed methods to related biomedical
 data.
 
  - [Homework 1](homework1.html) due 3 Oct 2019
- - [Homework 2](homework2.html) due 7 Nov
+ - [Homework 2](homework2.html) due 7 Nov 2019
 
 
 ### Religious observances or other absences
