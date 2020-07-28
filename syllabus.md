@@ -8,12 +8,12 @@ description: Syllabus for BMI 881, Biomedical data science scholarly literature
 [University of Wisconsin-Madison](https://wisc.edu) <br/>
 (2 credits)
 
-**Course meetings**: Tu/Thu 8:30-9:20, [1116 Biochemistry](https://map.wisc.edu/s/3cqqjqss)
+**Course meetings**: Tu/Thu 8:30-9:20, via BBCollaborate at [Canvas site](https://canvas.wisc.edu)
 
-**Instructor**: [Karl Broman](https://kbroman.org),
-[2126 Genetics-Biotechnology Center](https://map.wisc.edu/s/2tie3nen)
+**Instructor**: [Karl Broman](https://kbroman.org)
 
-**Office hours**: Tu 9:30-10:30, Fr 10:30-11:30, or by appointment
+**Office hours**: Tu 9:30-10:30, Fr 10:30-11:30, or by appointment,
+via BBCollaborate: <https://bit.ly/offhrs_f2020>
 
 Critical evaluation of the scholarly literature is a crucial skill for
 researchers. Through this course (along with its continuation, BMI
@@ -45,7 +45,7 @@ biomedical data.
 ### Course grade
 
 Course grade will be based on class participation (40%),
-written article summaries (30%), and 3 homework assignments (30%).
+written article summaries (30%), and 2 homework assignments (30%).
 
 The article summaries will be scored 0 (missing), 1 (weak), 2 (adequate),
 and 3 (strong).
@@ -90,12 +90,13 @@ of discussion.
 
 #### Written article summaries
 
-Prior to each Tuesday morning class (or Thursday if there is no class
-on the Tuesday), write a short summary of the article or articles to
+Prior to each Tuesday morning class , write a short summary of the article or articles to
 be discussed that week: one paragraph summarizing the article(s), and
 a second paragraph describing your reaction (for example, aspects that
 you found surprising, interesting, or suspect). The written summary
 should be less than a page but more than a couple of sentences.
+**Also include two or more discussion questions that might be used to
+stimulate discussion of the paper.**
 
 These article summaries should be completed at least a half-hour prior
 to the class meeting time. This may be accomplished in a variety of
@@ -125,9 +126,6 @@ effort to reproduce the results of an article, the use of computer
 simulation to investigate properties of methods discussed in an
 article, or application of the discussed methods to related biomedical
 data.
-
- - [Homework 1](homework1.html) due 3 Oct 2019
- - [Homework 2](homework2.html) due 7 Nov 2019
 
 
 ### Religious observances or other absences

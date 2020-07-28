@@ -12,12 +12,13 @@ of discussion.
 
 ### Written article summaries
 
-Prior to each Tuesday morning class (or Thursday if there is no class
-on the Tuesday), write a short summary of the article or articles to
+Prior to each Tuesday morning class , write a short summary of the article or articles to
 be discussed that week: one paragraph summarizing the article(s), and
 a second paragraph describing your reaction (for example, aspects that
 you found surprising, interesting, or suspect). The written summary
 should be less than a page but more than a couple of sentences.
+**Also include two or more discussion questions that might be used to
+stimulate discussion of the paper.**
 
 These article summaries should be completed at least a half-hour prior
 to the class meeting time. This may be accomplished in a variety of
@@ -47,6 +48,3 @@ will involve an effort to reproduce the results of an article, the use
 of computer simulation to investigate properties of methods discussed
 in an article, or application of the discussed methods to related
 biomedical data.
-
- - [Homework 1](homework1.html) due 3 Oct 2019
- - [Homework 2](homework2.html) due 7 Nov 2019
