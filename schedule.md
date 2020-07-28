@@ -1,6 +1,7 @@
 ---
 layout: page
 title: schedule
+tagline: fall, 2020
 description: Schedule and readings for BMI 881, Biomedical data science scholarly literature
 ---
 
