@@ -12,7 +12,7 @@ description: Syllabus for BMI 881, Biomedical data science scholarly literature
 
 **Instructor**: [Karl Broman](https://kbroman.org)
 
-**Office hours**: Tu 9:30-10:30, Fr 10:30-11:30, or by appointment,
+**Office hours**: Tu 9:30-10:30, Fr 9:30-10:30, or by appointment,
 via BBCollaborate: <https://bit.ly/offhrs_f2020>
 
 Critical evaluation of the scholarly literature is a crucial skill for
