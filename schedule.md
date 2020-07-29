@@ -33,3 +33,4 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 26 Nov    |  | **No class meeting** |
 | 1,3 Dec   |  | Statistical modeling: the two cultures [Breiman (2001)](https://doi.org/10.1214/ss/1009213726) |
 | 8 Dec     |  | tSNE: [van der Maaten & Hinton (2008)](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) \[[supplement](https://lvdmaaten.github.io/publications/misc/Supplement_JMLR_2008.pdf)\] |
+| 10 Dec    |  | **No class meeting** |
