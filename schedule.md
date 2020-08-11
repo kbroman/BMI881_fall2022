@@ -13,7 +13,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 15,17 Sep  |    | [Snow on Cholera](http://www.ph.ucla.edu/epi/snow/snowbook.html) [![pdf logo](icons/pdf-icon.png)](assets/snow_cholera.pdf) [![map 1](icons/pdf-icon.png)](https://www.ph.ucla.edu/epi/snow/snowmap1.pdf) [![map 2](icons/pdf-icon.png)](https://www.ph.ucla.edu/epi/snow/snowmap2.pdf) |
 | 22 Sep |     | Lipids and heart disease: [Lipid Research Clinics Program (1984)](https://doi.org/10.1001/jama.1984.03340270029025), [part 2](https://doi.org/10.1001/jama.1984.03340270043026) |
 | 24 Sep  |    | **No class meeting** |
-| 29 Sep   |    | Skin cancer: [Wang et al. (2019)](https://doi.org/10.1001/jamadermatol.2019.2335) \[_[homework 1](homework1.html) due_\] |
+| 29 Sep   |    | Skin cancer: [Wang et al. (2019)](https://doi.org/10.1001/jamadermatol.2019.2335)
 | 1 Oct   |    | **No class meeting** |
 | 6 Oct   |   | Hormone replacement therapy: [Hern&aacute;n et al. (2008)](https://doi.org/10.1097/EDE.0b013e3181875e61) |
 | 8 Oct  |   | Hormone replacement therapy discussion and response:
