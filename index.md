@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biomedical data science scholarly literature
+title: Biomedical data science scholarly literature 1
 description: A seminar on scientific papers
 ---
 
