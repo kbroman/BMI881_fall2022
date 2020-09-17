@@ -4,7 +4,7 @@ title: homework 1
 description: "First homework assignment for BMI 881, Biomedical data science scholarly literature, on converting a table into a graph"
 ---
 
-**Due 3 Oct 2019**
+**Due 6 Oct 2020**
 
 Consider [Table 1 ![pdf
 icon](https://kbroman.org/pages/icons16/pdf-icon.png)](assets/feigin2014_table1.pdf)
