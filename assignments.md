@@ -50,3 +50,5 @@ in an article, or application of the discussed methods to related
 biomedical data.
 
 - [Homework 1](homework1.html) due 6 Oct 2020
+
+- [Homework 2](homework2.html) due 3 Nov 2020
