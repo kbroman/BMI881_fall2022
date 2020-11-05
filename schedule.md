@@ -26,7 +26,6 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 27 Oct    |  | Causal inference: [Pearl (2009)](http://doi.org/10.1214/09-SS057)  |
 | 29 Oct    |  | **No class meeting** |
 | 3 Nov     |  | OHDSI: [Ryan et al. (2013)](https://doi.org/10.1038/psp.2013.52) |
-|           |  | (**[Homework 2](homework2.html) due**)     |
 | 5 Nov     |  | OHDSI: [Madigan et al. (2013)](https://doi.org/10.1093/aje/kwt010) |
 | 10 Nov    |  | Data vis: [Lex et al. (2014)](https://doi.org/10.1109/TVCG.2014.2346248)
 | 12 Nov    |  | Data vis: [Chelaru et al. (2014)](https://doi.org/10.1038/nmeth.3038) |
