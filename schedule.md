@@ -33,7 +33,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 19 Nov    |  | **No class meeting** |
 | 24 Nov    |  | Deep learning and Manubot: [Ching et al. (2018)](https://doi.org/10.1098/rsif.2017.0387), [Himmelstein et al. (2019)](https://doi.org/10.1371/journal.pcbi.1007128) |
 | 26 Nov    |  | **No class meeting** |
-| 1 Dec     |  | tSNE: [van der Maaten & Hinton (2008)](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) \[[supplement](https://lvdmaaten.github.io/publications/misc/Supplement_JMLR_2008.pdf)\] |
+| 1 Dec   |  | Statistical modeling: the two cultures [Breiman (2001)](https://doi.org/10.1214/ss/1009213726) |
+en08a.pdf) \[[supplement](https://lvdmaaten.github.io/publications/misc/Supplement_JMLR_2008.pdf)\] |
 | 3 Dec    |  | **No class meeting** |
-| 8 Dec   |  | Statistical modeling: the two cultures [Breiman (2001)](https://doi.org/10.1214/ss/1009213726) |
-| 10 Dec    |  | **No class meeting** |
+| 8 Dec     |  | tSNE: [van der Maaten & Hinton (2008)](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaat| 10 Dec    |  | **No class meeting** |
