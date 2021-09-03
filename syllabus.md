@@ -8,12 +8,12 @@ description: Syllabus for BMI 881, Biomedical data science scholarly literature
 [University of Wisconsin-Madison](https://wisc.edu) <br/>
 (2 credits)
 
-**Course meetings**: Tu/Thu 8:30-9:20
+**Course meetings**: Tu/Thu 8:30-9:20, [4765 MSC](https://map.wisc.edu/s/x2g30uqo)
 
+**Instructor**: [Karl Broman](https://kbroman.org), [2126 Genetics-Biotech](https://map.wisc.edu/s/5gyvnffv)
 
-**Instructor**: [Karl Broman](https://kbroman.org)
-
-**Office hours**: Tu 9:30-10:30, or by appointment
+**Office hours**: Tu 9:30-10:30, or by appointment, in 2126
+Genetics-Biotech or via zoom, <https://bit.ly/broman_office_hours>
 
 Critical evaluation of the scholarly literature is a crucial skill for
 researchers. Through this course (along with its continuation, BMI
@@ -38,8 +38,6 @@ biomedical data.
 - Students will be able to critically evaluate quantitative approaches in the scientific literature.
 - Students will be able to articulate the biological context of a research question and the scientific relevance of analysis results.
 - Students will be able to identify and articulate the strengths and weaknesses of different study designs and analysis methods, including potential biases in research data sets.
-
-
 
 
 ### Discussion
