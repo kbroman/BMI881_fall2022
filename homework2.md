@@ -4,7 +4,7 @@ title: homework 2
 description: "Second homework assignment for BMI 881, Biomedical data science scholarly literature, on calculating positive predictive value"
 ---
 
-**Due 3 Nov 2020**
+**Due 4 Nov 2021**
 
 This is in relation to the paper on predicting nonmelanoma skin
 cancer, [Wang et al.
