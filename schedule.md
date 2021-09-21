@@ -15,7 +15,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 28 Sep  |    | Lipids and heart disease: [Lipid Research Clinics Program (1984)](https://doi.org/10.1001/jama.1984.03340270029025), [part 2](https://doi.org/10.1001/jama.1984.03340270043026) |
 | 30 Sep  |    | **No class meeting** |
 | 5 Oct  |    | Skin cancer: [Wang et al. (2019)](https://doi.org/10.1001/jamadermatol.2019.2335)
-| 7 Oct   |    | **No class meeting** |
+| 7 Oct   |    | **No class meeting** ([homework 1](homework1.html) due) |
 | 12 Oct   |    | Hormone replacement therapy: [Hern&aacute;n et al. (2008)](https://doi.org/10.1097/EDE.0b013e3181875e61) |
 | 14 Oct   |    | Hormone replacement therapy discussion and response:
 |         |    | [Hoover (2008)](https://doi.org/10.1097/EDE.0b013e318188e21d); [Stampfer (2008)](https://doi.org/10.1097/EDE.0b013e318188442e); [Prentice (2008)](https://doi.org/10.1097/EDE.0b013e318188e83b); [Hern&aacute;n and Robins (2008)](https://doi.org/10.1097/EDE.0b013e318188e85f); [Willett et al. (2008)](https://doi.org/10.1097/EDE.0b013e318188e84e) |

@@ -4,7 +4,7 @@ title: homework 1
 description: "First homework assignment for BMI 881, Biomedical data science scholarly literature, on converting a table into a graph"
 ---
 
-**Due 6 Oct 2020**
+**Due 7 Oct 2020**
 
 Consider [Table 1 ![pdf
 icon](https://kbroman.org/BMI881/icons/pdf-icon.png)](assets/feigin2014_table1.pdf)
@@ -15,7 +15,7 @@ from Feigin et al. (2014) Lancet 383:245-255
 income group). Focus on the rates and intervals.
 The data are available in [`feigin2014_table1_mortality.csv`](assets/feigin2014_table1_mortality.csv).
 
-2. Discuss your design choices.
+2. Discuss your design choices. (Why did you choose this particular graph?)
 
 3. How would you make a comprehensive graph that includes all of the
 information in the table?
