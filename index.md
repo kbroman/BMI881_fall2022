@@ -34,3 +34,4 @@ Genetics-Biotech or via zoom, <https://bit.ly/broman_office_hours>
 - [resources](resources.html)
 
 - [Homework 1](homework1.html) **due 7 Oct 2021**
+- [Homework 2](homework2.html) **due 4 Nov 2021**
