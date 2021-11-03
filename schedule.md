@@ -28,8 +28,8 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 9 Nov     |  | OHDSI: [Madigan et al. (2013)](https://doi.org/10.1093/aje/kwt010) |
 | 11 Nov     |  | **No class meeting** |
 | 16 Nov    |  | Data vis: [Lex et al. (2014)](https://doi.org/10.1109/TVCG.2014.2346248) |
-| 18 Nov    |  | Data vis: [Majumder et al. (2013)](https://doi.org/10.1080/01621459.2013.808157) |
-| 23 Nov    |  | Deep learning: [Fan et al. (2021)](https://doi.org/10.1214/20-STS783) |
+| 18 Nov    |  | **No class meeting** |
+| 23 Nov    |  | Data vis: [Majumder et al. (2013)](https://doi.org/10.1080/01621459.2013.808157) |
 | 25 Nov    |  | **No class meeting** |
 | 30 Nov    |  | Deep learning and Manubot: [Ching et al. (2018)](https://doi.org/10.1098/rsif.2017.0387), [Himmelstein et al. (2019)](https://doi.org/10.1371/journal.pcbi.1007128) |
 | 2 Dec    |  | **No class meeting** |
