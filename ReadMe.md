@@ -3,7 +3,7 @@
 This repository contains the source for the website for the course
 [Biomedical data science scholarly
 literature](https://kbroman.org/BMI881), a graduate course at
-[UW-Madison](https://wisc.edu) that is part of the [Biomedical Data Science PhD program](https://bit.ly/MadBDS).
+[UW-Madison](https://wisc.edu) that is part of the Biomedical Data Science PhD program.
 
 The aim of the course is for students to learn how to read scientific
 papers, and to discuss a variety of papers from statistics,
