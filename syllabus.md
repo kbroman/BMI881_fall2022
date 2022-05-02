@@ -10,10 +10,9 @@ description: Syllabus for BMI 881, Biomedical data science scholarly literature
 
 **Course meetings**: Tu/Thu 8:30-9:20, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
 
-**Instructor**: [Karl Broman](https://kbroman.org), [2126 Genetics-Biotech](https://map.wisc.edu/s/5gyvnffv)
+**Instructor**: [Karl Broman](https://kbroman.org)
 
-**Office hours**: Tu 9:30-10:30, or by appointment, in 2126
-Genetics-Biotech or via zoom, <https://bit.ly/broman_office_hours>
+**Office hours** by appointment
 
 Critical evaluation of the scholarly literature is a crucial skill for
 researchers. Through this course (along with its continuation, BMI
