@@ -10,7 +10,8 @@ description: Syllabus for BMI 881, Biomedical data science scholarly literature
 
 **Course meetings**: Tu/Thu 8:30-9:20, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
 
-**Instructor**: [Karl Broman](https://kbroman.org)
+**Instructor**: [Karl Broman](https://kbroman.org),
+[6743 Medical Sciences Center](https://kbroman.org/6743msc.html)
 
 **Office hours** by appointment
 
