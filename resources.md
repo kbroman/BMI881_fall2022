@@ -41,7 +41,7 @@ Here are strategies I use:
   journal articles, but this is _not_ an accepted way to get access to
   copyrighted material.
 
-- PDFs for this course will be posted on the [Canvas site](https://canvas.wisc.edu)
+- PDFs for this course will be posted on the [Canvas site](https://canvas.wisc.edu/courses/323609)
 
 ### Tables &rarr; Graphs
 

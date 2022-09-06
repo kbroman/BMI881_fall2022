@@ -40,4 +40,4 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 
 ---
 
-Readings available at [the course Canvas site](https://canvas.wisc.edu/courses/273715).
+Readings available at [the course Canvas site](https://canvas.wisc.edu/courses/323609).
