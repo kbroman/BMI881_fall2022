@@ -31,7 +31,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 17 Nov    |  | **No class meeting** |
 | 22 Nov    |  | Data vis: [Majumder et al. (2013)](https://doi.org/10.1080/01621459.2013.808157) |
 | 24 Nov    |  | **No class meeting** |
-| 29 Nov    |  | Deep learning and Manubot: [Ching et al. (2018)](https://doi.org/10.1098/rsif.2017.0387), [Himmelstein et al. (2019)](https://doi.org/10.1371/journal.pcbi.1007128) |
+| 29 Nov    |  | **To be determined** |
 | 1 Dec    |  | **No class meeting** |
 | 6 Dec   |  | Statistical modeling: the two cultures [Breiman (2001)](https://doi.org/10.1214/ss/1009213726) |
 | 8 Dec    |  | **No class meeting** |
