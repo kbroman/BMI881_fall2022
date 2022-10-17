@@ -18,15 +18,15 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | | | [Prentice (2008)](https://doi.org/10.1097/EDE.0b013e318188e83b); [Hern&aacute;n and Robins (2008)](https://doi.org/10.1097/EDE.0b013e318188e85f); [Willett et al. (2008)](https://doi.org/10.1097/EDE.0b013e318188e84e) |
 | 6 Oct   |    | **No class meeting** |
 | 11 Oct  |    | Skin cancer: [Wang et al. (2019)](https://doi.org/10.1001/jamadermatol.2019.2335)
-| 13 Oct   |    | **No class meeting** (**[Homework 1](homework1.html) due**)
+| 13 Oct   |    | **No class meeting**
 | 18 Oct |  | Mammography: [Berry (1998)](https://doi.org/10.1093/jnci/90.19.1431), [Kopans and Halpern (1999)](https://doi.org/10.1093/jnci/91.4.382) |
 | 20 Oct    |  | **No class meeting** |
 | 25 Oct    |  | Propensity scores: [Rosenbaum and Rubin (1983)](http://doi.org/10.1093/biomet/70.1.41) |
 | 27 Oct    |  | **No class meeting** |
 | 1 Nov    |  | Causal inference: [Pearl (2009)](http://doi.org/10.1214/09-SS057)  |
-| 3 Nov    |  | **No class meeting**
+| 3 Nov    |  | **No class meeting**  |
 | 8 Nov     |  | OHDSI: [Madigan et al. (2013)](https://doi.org/10.1093/aje/kwt010) |
-| 10 Nov     |  | **No class meeting** |
+| 10 Nov     |  | **No class meeting** (**[Homework 2](homework2.html) due**) |
 | 15 Nov    |  | Data vis: [Lex et al. (2014)](https://doi.org/10.1109/TVCG.2014.2346248) |
 | 17 Nov    |  | **No class meeting** |
 | 22 Nov    |  | Data vis: [Majumder et al. (2013)](https://doi.org/10.1080/01621459.2013.808157) |
