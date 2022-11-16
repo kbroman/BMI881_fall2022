@@ -31,7 +31,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 17 Nov    |  | No class meeting |
 | 22 Nov    |  | Data vis: [Majumder et al. (2013)](https://doi.org/10.1080/01621459.2013.808157) |
 | 24 Nov    |  | No class meeting |
-| 29 Nov    |  | **To be determined** |
+| 29 Nov    |  | Gender shades: [Buolamwini & Gebru (2018)](http://proceedings.mlr.press/v81/buolamwini18a.html) [![pdf logo](icons/pdf-icon.png)](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf) |
 | 1 Dec    |  | No class meeting |
 | 6 Dec   |  | Statistical modeling: the two cultures [Breiman (2001)](https://doi.org/10.1214/ss/1009213726) |
 | 8 Dec    |  | No class meeting |
